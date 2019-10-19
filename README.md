@@ -1,1 +1,2 @@
 # SPSv1.0
+Build of a private and decentralised cloud storage platform with marketplace feature. The backbone of the platform is IPFS (Inter-Planetary File System) in which the data will be stored. Inter-Planetary File System is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system. ( wikipedia ) The system will be built with Java programming, the stability of this technology make it easy to develop and easy to install on any operating system.
